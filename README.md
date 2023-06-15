@@ -1,12 +1,11 @@
-<div><p align=center><img src="https://github.com/tyg3rr/tyg3rr/assets/107812334/0013c367-2019-45b5-b1da-a047c3156a57" width="150px" height="150px" > </p>
-  <h1><p align=center>@tyg3r</p></h1>
-  <h3><p align=center>Student Epidemiologist, Data Scientist, MPH Candidate</p></h3>
-  <p align=center><a href="https://en.pronouns.page/@tyg3r)">(she/her, they/them, any/all)</a>
-  <p align=center>www.tyg3r.com</p></div>
+<div align=center><p ><img src="https://github.com/tyg3rr/tyg3rr/assets/107812334/947a3bb6-1755-4a8d-90a0-a0c4b5638b5f" width="300px" height="300px"  > &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+  <h1><p > @tyg3r</p></h1>
+  <h3><p > Student Epidemiologist, Data Scientist, MPH Candidate</p></h3>
+  <p ><a href="https://en.pronouns.page/@tyg3r)">(she/her, they/them, any/all)</a>
+  <p > www.tyg3r.com</p></div>
 
 
 <br/>
-
 
 
 🔧 - Currently building Epi_Helper, an automated epi pipeline tool

@@ -1,4 +1,5 @@
-<div><h1><p align=center><img src="https://github.com/tyg3rr/tyg3rr/assets/107812334/0013c367-2019-45b5-b1da-a047c3156a57" width="75px" height="75px" > @tyg3r</p></h1>
+<div><p align=center><img src="https://github.com/tyg3rr/tyg3rr/assets/107812334/0013c367-2019-45b5-b1da-a047c3156a57" width="150px" height="150px" > </p>
+  <h1><p align=center>@tyg3r</p></h1>
   <h3><p align=center>Student Epidemiologist, Data Scientist, MPH Candidate</p></h3>
   <p align=center><a href="https://en.pronouns.page/@tyg3r)">(she/her, they/them, any/all)</a>
   <p align=center>www.tyg3r.com</p></div>

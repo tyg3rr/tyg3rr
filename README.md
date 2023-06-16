@@ -18,7 +18,7 @@
 
 📢 - Currently advocating for Health Equity
 
-✨ - Currently literally just vibin', bro
+✨ - Literally just vibin'
 
 
 

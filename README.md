@@ -12,9 +12,7 @@
 
 🧑‍🎓 - Currently studying Public Health
 
-🖥️ - Currently working on Advanced Analytics, IT Automation w/ Python certs
-
-📊 - Currently learning Power BI, Power Query, & DAX
+🖥️ - Currently working on IT Automation w/ Python certification
 
 📢 - Currently advocating for Health Equity
 

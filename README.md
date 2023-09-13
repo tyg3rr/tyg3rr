@@ -8,9 +8,9 @@
 ## 👋 Hi there
 
 
-I'm Lillian ([she/they/any](https://en.pronouns.page/@tyg3r)), a communicable disease epidemiologist and public health informatician. 
+I'm Lillian ([she/they/any](https://en.pronouns.page/@tyg3r)), a Communicable Disease Epidemiologist and Public Health Informatician. 
 
-I engineer modernization solutions to streamline public health surveillance.
+I engineer data modernization solutions to streamline public health surveillance.
 
 [Portfolio](https://tyg3r.com/) | [LinkedIn](https://www.linkedin.com/in/lillianjensen0/) | [Blog](https://tyg3r.com/tag/blog/)
 

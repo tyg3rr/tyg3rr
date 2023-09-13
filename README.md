@@ -16,7 +16,7 @@ I engineer modernization solutions to streamline public health surveillance.
 
 ---
 
-</div>
+
 
 
 ## Technologies & Tools
@@ -58,6 +58,6 @@ I engineer modernization solutions to streamline public health surveillance.
 
 ---
 
-<div align=center>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyg3rr&theme=dark" />
 </div>

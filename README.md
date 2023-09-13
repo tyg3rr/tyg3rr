@@ -37,8 +37,6 @@ I engineer modernization solutions to streamline public health surveillance.
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Microsoft](https://img.shields.io/badge/-Microsoft-000?&logo=Microsoft)
-
-
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-000?&logo=scikit%20learn)

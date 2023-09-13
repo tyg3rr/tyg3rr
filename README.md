@@ -3,7 +3,7 @@
 
 
   
-<img src="https://github.com/tyg3rr/tyg3rr/blob/main/octocat-1694623381704.png" width="300px" height="300px" />
+<img src="https://github.com/tyg3rr/tyg3rr/blob/main/octocat-1694623381704.png" width="450px" height="450px" />
   
 ## 👋 Hi there
 

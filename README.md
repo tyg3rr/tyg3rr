@@ -57,11 +57,11 @@ I engineer data modernization solutions to streamline public health surveillance
 ---
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyg3rr&theme=nord_dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tyg3rr&theme=nord_dark&exclude=rust" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tyg3rr&theme=nord_dark&exclude=rust" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tyg3rr&theme=nord_dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tyg3rr&theme=nord_dark&utcOffset=-5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyg3rr&theme=city_lights" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tyg3rr&theme=city_lights&exclude=rust" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tyg3rr&theme=city_lights&exclude=rust" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tyg3rr&theme=city_lights" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tyg3rr&theme=city_lights&utcOffset=-5" />
 
 
 </div>

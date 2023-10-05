@@ -5,7 +5,7 @@
 ## 👋 Hi there
 
 
-I'm Lillian ([she/they/any](https://en.pronouns.page/@tyg3r)), am Epidemiologist and Public Health Informatician. 
+I'm Lillian ([she/they/any](https://en.pronouns.page/@tyg3r)), an Epidemiologist and Public Health Informatician. 
 
 I engineer data modernization solutions to streamline public health surveillance.
 

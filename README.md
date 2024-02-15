@@ -9,7 +9,7 @@ I'm Lillian ([she/they/any](https://en.pronouns.page/@tyg3r)), an Epidemiologist
 
 I engineer data modernization solutions to streamline public health surveillance.
 
-[Portfolio](https://tyg3r.com/) | [LinkedIn](https://www.linkedin.com/in/lillianjensen0/) | [Blog](https://tyg3r.com/tag/blog/)
+www.LillianJensen.com
 
 ---
 

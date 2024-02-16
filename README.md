@@ -5,11 +5,11 @@
 ## 👋 Hi there
 
 
-I'm Lillian ([she/they/any](https://en.pronouns.page/@tyg3r)), an Epidemiologist and Public Health Informatician. 
+I'm Lillian
 
-I engineer data modernization solutions to streamline public health surveillance.
+I help health departments accelerate data into action.
 
-[Hiring Autism](https://www.psychologytoday.com/us/blog/beyond-mental-health/202311/hire-autistic-people)
+[she/they/any](https://en.pronouns.page/@tyg3r) | [Hiring Autism](https://www.psychologytoday.com/us/blog/beyond-mental-health/202311/hire-autistic-people)
 
 ---
 

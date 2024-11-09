@@ -7,9 +7,8 @@
 
 I'm Lillian
 
-I help health departments accelerate data into action.
+Accelerating public health data into public health action.
 
-[she/they/any](https://en.pronouns.page/@tyg3r) | [Hiring Autism](https://www.psychologytoday.com/us/blog/beyond-mental-health/202311/hire-autistic-people)
 
 ![](https://komarev.com/ghpvc/?username=tyg3rr&color=824545)
 

@@ -7,8 +7,7 @@
 
 I'm Lillian
 
-Accelerating public health data into public health action.
-
+I'm a CSTE Applied Epidemiology Fellow and Data Scientist 
 
 ![](https://komarev.com/ghpvc/?username=tyg3rr&color=824545)
 
@@ -40,6 +39,7 @@ Accelerating public health data into public health action.
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-000?&logo=scikit%20learn)
 ![SciPy](https://img.shields.io/badge/-SciPy-000?&logo=SciPy)
 ![Plotly](https://img.shields.io/badge/-Plotly-000?&logo=Plotly)
+![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=Power%20BI)
 ![Microsoft_Excel](https://img.shields.io/badge/-Microsoft%20Excel-000?&logo=Microsoft%20Excel)
 
